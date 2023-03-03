@@ -27,3 +27,5 @@ WebDriver BiDi listening on ws://127.0.0.1:53040
 1677822758723	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/w5/8yx_2s_x17lffygy0r797wvc0000gn/T/rust_mozprofilelAByCa/search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:53040/devtools/browser/becf6ae2-ce86-44e5-8b78-da5d7bf1fbb2
+1677826556683	Marionette	INFO	Stopped listening on port 53047
+1677826559716	Marionette	INFO	Stopped listening on port 52981
